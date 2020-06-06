@@ -2,7 +2,7 @@
 <html class="staticrypt-html">
 <head>
     <meta charset="utf-8">
-    <title>Protected Page tiaweb</title>
+    <title>Protected Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- do not cache this page -->
@@ -136,7 +136,7 @@
 
 </div>
 <footer class="staticrypt-footer">
-    <p class="pull-right">Created with <a href="https://robinmoisson.github.io/staticrypt">Tiaweb</a></p>
+    <p class="pull-right">Created with <a href="https://robinmoisson.github.io/staticrypt">StatiCrypt</a></p>
 </footer>
 
 
@@ -6164,7 +6164,7 @@
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
-            encryptedMsg = 'cffca28d8a3ebb9673967cf1105936986c66b511a8f2735bf19973395581f2476abd28528f734906abfad778911a5f1d3cf92a6ecb50fa186e18f2b2c3ec0a8biyUuYRXcaXMueSzv8VmoiDRrsWLQio7Ml5ZEfOYpPsT23fZW4kSPXe+uR0ZFb0yglrF5FKiygQOKEKiv2j8M4tmOTUO2Yoe7DuOSLCXxHd+LCIj9P17pLGdAsshQ63702fWAcivNExiTbv/+qauTLvhmK/DxBi3tFNKfYtCxC0VdD6tnJzYc1NckVB7dseYPPvR+h8Qx4Psqtxx1DMqVNpvPU3d35ydpnaIsp/UK3dcLTiweuDMfCaQyqGPmdr9FGORibxAJqImbY3mhL+L8nkywf0RifHEC14Oi+HAbHO2VbUrrM0ldRHEkFeNuSviebxHmrZe1DVXQ4GIq5/L5MVN+hRkBQNlVxxg6v1gJw3x9tAMsvA6tPTCsmtRl2OVY',
+            encryptedMsg = 'a67a0763543b6abd6c186868ca716c6457f857b1a1b0cf735a61a239671bc893583d07bfd419ae086d57b64862262523ad3ce1126c051a3bc42ef0089a1636a2TTFIMVIVUSyXENmU6V1KY0Y/LRfHdYiZzIfweWyq3XnRsqwCxTq5OLR8QUydkZGm5ZCyxDVzqpIJdqk4W7Kh5J9NGwmKoKiJxfJPQlI7F++NdZUZJdk/gcWSMe0hy6lLgOR9xGi8y9dvTBL3ntGvJYhYIQPI24YTPNVXzkjVqFekwPWsmgQels0FVOIDUrI7BT+1JBt2tLwn93w3tCqiaYcOc0TSfVlR01tjQcELW/fuRTPjNjKdWyuSSjMpqNX5YGH4s9N/a97x+lmkQ675R1xhlwzjlbmDKST7/GbU5cnOurByf9mIjLYsJt0CKiNr9SJxK2DVEgWLXXoYQUJZIdP/cwFc30T0igRhrd2AyjIxoNsX6RZ5OzdlnSnaLYHGiOCE7xItAm+KFQ0vLWGkXBS2VmqawnoEVsHlVpB5LmKjb+Pn5t7FhmeG4NIldvxqBB8A+SqvMKHU8brQzXOxHxpyJtC1Llaa1Ybi5b4d5EheHDzCBJIqJObBxF+8ZrfaKa98Oh2UTyPur+gdIvStF02Ee68L90B9bmBVvhP10Sqi9taBOstm5GJY6GYXHg5mcgQvxJ6b6wgQ3ilyEM5/9HV5FBOfCA1ECXhg667piZmKZGaR85kY3AlMjavk55Zul6IGPhDOsIxWpUjxdmRlIWjMDHLe/8Zp0kn1n3WTTgbY33+Z9lQmjL5p5BFBafxVR0krK9Wmr6hrvu1eHEjKma25xjS009eC2NlH9XuOcldRs39dPm9/O3e1j9ZBo2CJ46FTk7M0R9mdVEWAsf7eRYrzFu5L9fvH8cgoVH3Br7UzWDyzSGjqq61axdvktl2QlJagVSLS9AlNKRVbNX/fFA==',
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
