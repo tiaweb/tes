@@ -1,0 +1,493 @@
+[
+  {
+    "name":"Modernizr",
+    "web": "http://modernizr.com",
+    "description": "Modernizr is an open-source JavaScript library that helps you build the next generation of HTML5 and CSS3-powered websites.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Mustache",
+    "web": "http://mustache.github.io/",
+    "description": "Mustache can be used for HTML, config files, source code - anything. It works by expanding tags in a template using values provided in a hash or object.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Raphael",
+    "web": "http://raphaeljs.com",
+    "description": "Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. If you want to create your own specific chart or image crop and rotate widget, for example, you can achieve it simply and easily with this library.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"EaselJS",
+    "web": "http://easeljs.com",
+    "description": "EaselJS provides straight forward solutions for working with rich graphics and interactivity with HTML5 Canvas.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Three.js",
+    "web": "http://threejs.org/",
+    "description": "Three.js is a library that makes WebGL - 3D in the browser - very easy.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"AngularJS",
+    "web": "http://angularjs.org/",
+    "description": "AngularJS is what HTML would have been, had it been designed for building web-apps. Declarative templates with data-binding, MVW, MVVM, MVC, dependency injection and great testability.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"D3.js",
+    "web": "http://d3js.org/",
+    "description": "D3 is a JavaScript library for visualizing data with HTML, SVG and CSS.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Leaflet",
+    "web": "http://leafletjs.com/",
+    "description": "Leaflet is a modern, lightweight open-source JavaScript library for mobile-friendly interactive maps.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"OpenLayers",
+    "web": "http://openlayers.org/",
+    "description": "OpenLayers makes it easy to put a dynamic map in any web page. It can display map tiles and markers loaded from any source.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Sencha Ext JS",
+    "web": "http://www.sencha.com/products/extjs/",
+    "description": "Ext JS provides the building blocks necessary to create robust desktop applications. Ext JS also brings a rich data package that allows developers to use a model-view-controller (MVC) architecture when building their app.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"RequireJS",
+    "web": "http://requirejs.org/",
+    "description": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Backbone.js",
+    "web": "http://backbonejs.org/",
+    "description": "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"PhantomJS",
+    "web": "http://phantomjs.org/",
+    "description": "PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"Node.js",
+    "web": "http://nodejs.org/",
+    "description": "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.",
+    "keywords": [
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"JSHint",
+    "web": "http://www.jshint.com/",
+    "description": "This is JSHint, a tool that helps to detect errors and potential problems in your JavaScript code.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"JSONLint",
+    "web": "http://jsonlint.com/",
+    "description": "JSON Lint is a web based validator and reformatter for JSON, a lightweight data-interchange format.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"JSON Editor Online",
+    "web": "http://jsoneditoronline.com",
+    "description": "JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"JS Bin",
+    "web": "http://jsbin.com/",
+    "description": "JS Bin allows you to edit and test JavaScript and HTML.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"JSFiddle",
+    "web": "http://jsfiddle.net/",
+    "description": "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Ajaxload",
+    "web": "http://www.ajaxload.info/",
+    "description": "Loading gif generator.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"CSS-Tricks",
+    "web": "http://css-tricks.com/",
+    "description": "Collection of CSS tricks.",
+    "keywords": [
+      "css",
+      "blog"
+    ]
+  },
+  {
+    "name":"Dribbble",
+    "web": "http://dribbble.com/",
+    "description": "Dribbble is a community of designers that show their work, process, and current projects.",
+    "keywords": [
+      "design",
+      "gallery"
+    ]
+  },
+  {
+    "name":"CodePen",
+    "web": "http://codepen.io/",
+    "description": "CodePen is an HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write. It’s great for seeing what amazing things other people are doing with the web.",
+    "keywords": [
+      "gallery",
+      "tools"
+    ]
+  },
+  {
+    "name":"CanvasMol",
+    "web": "http://alteredqualia.com/canvasmol/",
+    "description": "Interactive 3D molecule viewer in HTML5. Works with PDB/MOL/SDF formats.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"The Wilderness Downtown",
+    "web": "http://thewildernessdowntown.com/",
+    "description": "An interactive short film by Chris Milk. Featuring &quot;We Used To Wait&quot; from Arcade Fire.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"Art Project - Google Cultural Institute",
+    "web": "http://www.google.com/culturalinstitute/project/art-project",
+    "description": "The Google Cultural Institute brings together millions of artifacts from multiple partners, with the stories that bring them to life, in a virtual museum.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"Chrome Experiments",
+    "web": "http://www.chromeexperiments.com/",
+    "description": "A showcase of creative experiments programmed in JavaScript, HTML5, and WebGL.",
+    "keywords": [
+      "js",
+      "gallery"
+    ]
+  },
+  {
+    "name":"Super Mario Wiki",
+    "web": "http://www.mariowiki.com/Super_Mario_Bros.",
+    "description": "Wiki of classic Super Mario.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"HTML5 Rocks",
+    "web": "http://www.html5rocks.com/en/",
+    "description": "A resource for developers looking to put HTML5 to use today, including information on specific features and when to use them in your apps.",
+    "keywords": [
+      "html",
+      "blog"
+    ]
+  },
+  {
+    "name":"Can I use...",
+    "web": "http://caniuse.com/",
+    "description": "Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.",
+    "keywords": [
+      "html",
+      "css",
+      "tools"
+    ]
+  },
+  {
+    "name":"Queness",
+    "web": "http://www.queness.com/",
+    "description": "Queness is a hybrid of webblog and online community with heaps of design inspirations and great collection of javascript/jquery tutorials.",
+    "keywords": [
+      "design",
+      "blog"
+    ]
+  },
+  {
+    "name":"Character Entity Reference Chart",
+    "web": "http://dev.w3.org/html5/html-author/charref",
+    "description": "Visual reference for character entities.",
+    "keywords": [
+      "tools",
+      "html"
+    ]
+  },
+  {
+    "name":"Speaker Deck",
+    "web": "https://speakerdeck.com/",
+    "description": "Speaker Deck is the best way to share presentations online. Simply upload your slides as a PDF, and we’ll turn them into a beautiful online experience. View them on SpeakerDeck.com, or share them on any website with an embed code.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Adobe &amp; National Geographic: Future of Responsive Layout",
+    "web": "http://adobe-webplatform.github.io/Demo-for-National-Geographic-Forest-Giant/browser/src/",
+    "description": "Demo of Adobe's exploration on the future of responsive layout with National Geographic Content. See <a href='http://blogs.adobe.com/webplatform/2013/05/06/adobe-explores-the-future-of-responsive-digital-layout-with-national-geographic-content/'>documentation</a>.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"Google Fonts",
+    "web": "http://www.google.com/fonts",
+    "description": "Hundreds of free, open-source fonts optimized for the web.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Nettuts+",
+    "web": "http://net.tutsplus.com/",
+    "description": "Nettuts+ is a blog and community for Web Development tutorials. Learn php, JavaScript, WordPress, HTML5, CSS, Ruby and much more.",
+    "keywords": [
+      "blog"
+    ]
+  },
+  {
+    "name":"A List Apart",
+    "web": "http://alistapart.com/",
+    "description": "A List Apart explores the design, development, and meaning of web content, with a special focus on web standards and best practices.",
+    "keywords": [
+      "blog"
+    ]
+  },
+  {
+    "name":"TED",
+    "web": "http://www.ted.com/",
+    "description": "TED is a nonprofit devoted to Ideas Worth Spreading.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"Nature's Engineers – Google Green",
+    "web": "http://www.google.com/green/products/engineers/",
+    "description": "Website using CSS3 animations.",
+    "keywords": [
+      "cool"
+    ]
+  },
+  {
+    "name":"HTML5 Doctor",
+    "web": "http://html5doctor.com/",
+    "description": "Articles relating to HTML5, its semantics, and how to use it right now.",
+    "keywords": [
+      "html",
+      "blog"
+    ]
+  },
+  {
+    "name":"Sitepoint",
+    "web": "http://www.sitepoint.com/",
+    "description": "Learn Web Design &amp; Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design.",
+    "keywords": [
+      "html",
+      "css",
+      "blog"
+    ]
+  },
+  {
+    "name":"Bootstrap",
+    "web": "http://getbootstrap.com/",
+    "description": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+    "keywords": [
+      "html",
+      "css",
+      "js",
+      "library"
+    ]
+  },
+  {
+    "name":"MIT Open Courseware",
+    "web": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/",
+    "description": "MIT's subjects available on the Web, free of charge.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Smashing Magazine",
+    "web": "http://www.smashingmagazine.com/",
+    "description": "Online magazine for professional Web designers and developers.",
+    "keywords": [
+      "blog"
+    ]
+  },
+  {
+    "name":"Treehouse",
+    "web": "http://teamtreehouse.com/",
+    "description": "Learn Web Design, Web Development, and More",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Coursera",
+    "web": "https://www.coursera.org/",
+    "description": "Take free online classes from 80+ top universities and organizations.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"edX",
+    "web": "https://www.edx.org/",
+    "description": "Take great online courses from the world's best universities.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Udacity",
+    "web": "https://www.udacity.com/",
+    "description": "Discover online classes taught by top instructors and industry experts.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Pluralsight",
+    "web": "http://www.pluralsight.com/",
+    "description": "Hardcore Dev and IT Training.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Code School",
+    "web": "https://www.codeschool.com/",
+    "description": "Learn to code in the comfort of your browser with video tutorials, programming challenges, and screencasts.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Hacking UI",
+    "web": "http://hackingui.com/",
+    "description": "Interaction design &amp; front end magazine covering all issues around user interfaces, user experience, workflow, and web development.",
+    "keywords": [
+      "blog"
+    ]
+  },
+  {
+    "name":"Framer",
+    "web": "http://www.framerjs.com/",
+    "description": "A prototyping tool for animation and interaction on desktop and mobile.",
+    "keywords": [
+      "tools",
+      "design"
+    ]
+  },
+  {
+    "name":"Animography",
+    "web": "http://animography.net/",
+    "description": "Webshop/typefoundry that provides motion designers, video-editors and others in the field of the moving image with animated typefaces.",
+    "keywords": [
+      "gallery",
+      "design"
+    ]
+  },
+  {
+    "name":"Dart",
+    "web": "https://www.dartlang.org/",
+    "description": "A new platform for building structured web apps for modern browsers. It includes a language, a VM, libraries, tools, and a compiler to JavaScript.",
+    "keywords": [
+      "tools",
+      "library"
+    ]
+  },
+  {
+    "name":"DevDocs",
+    "web": "http://devdocs.io/",
+    "description": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface.",
+    "keywords": [
+      "tools"
+    ]
+  },
+  {
+    "name":"Dive Into HTML5",
+    "web": "http://diveintohtml5.info/",
+    "description": "Hand-picked selection of features from the HTML5 specification and other fine standards.",
+    "keywords": [
+      "blog",
+      "html"
+    ]
+  },
+  {
+    "name":"New York Times Skimmer",
+    "web": "http://www.nytimes.com/skimmer/",
+    "description": "Times Skimmer is a browser-based application that offers a new way to read The Times online. The application provides the experience of spreading out a newspaper and paging through it.",
+    "keywords": [
+      "cool"
+    ]
+  }
+]
+
+
